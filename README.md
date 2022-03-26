@@ -26,4 +26,5 @@ I ran App.java as a java maven project from VSCode. Clone the code to your machi
 Note: That might not be helpful at all, good luck! :)
 
 Example of useful inputs and current product: 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src='images/Screen Shot 2022-03-26 at 3.14.13 PM.png' alt='Contractor Buddy' title='Contractor Buddy' width='111' /></a>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src='images/Screen Shot 2022-03-26 at 3.14.13 PM.png' alt='Contractor Buddy' title='Contractor Buddy' width='1110' /></a>

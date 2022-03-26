@@ -8,6 +8,9 @@
 Developed by: Peter Jacobson  
 Idea Created By: Jeff & Peter Jacobson
 
+A quick note on the code: Due to creating the project as a Marven project in VSCode there is some junk code as an artifcate of that process and it has not been cleaned up due to potential use with future iterations. 
+Please see App.Java for all source code.
+
 I am creating the "Contractor Buddy". This program is designed to be used by a contractor, currently on supporting a roofer, to automate the process of generating a job cost report. The idea was given to be from my dad, Jeff, who runs a roofing business and has been working to automate the job cost system through less technical means. 
 
 Usually a roofer will go to a sight take mesaurements, pictures, and other notes, then will have to go back to the office and fill out an excel sheet of what they need to order. Then they still have to create a job cost report from the information in the excel sheet, then finally after that estimate is made they will send an email or the customer with their bid. Even after all that, if the customer accepts the bid they still have to generate a contractor for the customer to sign. 
